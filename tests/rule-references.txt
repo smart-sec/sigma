@@ -451,6 +451,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketWebsite.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_RestoreObject.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/setting-repl-config-perm-overview.html
 https://docs.aws.amazon.com/awscloudtrail/latest/userguide/best-practices-security.html
+https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DeleteFlowLogs.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DisableEbsEncryptionByDefault.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ImportKeyPair.html
 https://docs.aws.amazon.com/cli/latest/reference/securityhub/
@@ -458,6 +459,7 @@ https://docs.aws.amazon.com/config/latest/developerguide/cloudtrail-log-files-fo
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteFileSystem.html
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteMountTarget.html
 https://docs.aws.amazon.com/glue/latest/webapi/API_CreateDevEndpoint.html
+https://docs.aws.amazon.com/guardduty/latest/APIReference/API_UpdateDetector.html
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-kubernetes.html#privilegeescalation-kubernetes-privilegedcontainer
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_suspend-disable.html
 https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteSAMLProvider.html
@@ -688,6 +690,7 @@ https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joatd/index.html
 https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/scrcons-exe-rare-child-process.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s3-proc-sys-kernel
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
 https://documentation.pdq.com/PDQDeploy/13.0.3.0/index.html?windows-services.htm
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
@@ -1715,6 +1718,7 @@ https://gtfobins.github.io/gtfobins/apt/
 https://gtfobins.github.io/gtfobins/awk/#shell
 https://gtfobins.github.io/gtfobins/c89/#shell
 https://gtfobins.github.io/gtfobins/c99/#shell
+https://gtfobins.github.io/gtfobins/capsh/#shell
 https://gtfobins.github.io/gtfobins/env/#shell
 https://gtfobins.github.io/gtfobins/find/#shell
 https://gtfobins.github.io/gtfobins/flock/#shell
@@ -1878,6 +1882,7 @@ https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/security
 https://learn.microsoft.com/en-us/azure/dns/dns-zones-records
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization
+https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftkubernetes
 https://learn.microsoft.com/en-us/defender-cloud-apps/anomaly-detection-policy
 https://learn.microsoft.com/en-us/defender-cloud-apps/policy-template-reference
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
@@ -2030,6 +2035,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc959352(v=technet.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc960241(v=technet.10)?redirectedfrom=MSDN
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd348773(v=ws.10)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd364427(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731033(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731620(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc742107(v=ws.11)
@@ -2039,6 +2045,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-serve
 https://learn.microsoft.com/en-us/sql/odbc/odbcconf-exe?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
+https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
 https://learn.microsoft.com/en-us/sysinternals/downloads/livekd
 https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
@@ -2586,6 +2593,7 @@ https://redcanary.com/blog/msix-installers/
 https://redcanary.com/blog/raspberry-robin/
 https://redcanary.com/blog/rclone-mega-extortion/
 https://redcanary.com/blog/right-to-left-override/
+https://redcanary.com/blog/threat-detection/process-masquerading/
 https://redcanary.com/blog/yellow-cockatoo/
 https://redcanary.com/threat-detection-report/
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
@@ -2875,6 +2883,7 @@ https://thedfirreport.com/2023/03/06/2022-year-in-review/
 https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/
 https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
+https://thedfirreport.com/2024/04/29/from-icedid-to-dagon-locker-ransomware-in-29-days/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
 https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html
@@ -3343,6 +3352,7 @@ https://unit42.paloaltonetworks.com/bluesky-ransomware/
 https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/
 https://unit42.paloaltonetworks.com/cloaked-ursa-phishing/
 https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/
+https://unit42.paloaltonetworks.com/cve-2025-59287/
 https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/
 https://unit42.paloaltonetworks.com/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/
 https://unit42.paloaltonetworks.com/guloader-installing-netwire-rat/
@@ -3825,6 +3835,7 @@ https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mi
 https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
 https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/
 https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+https://www.microsoft.com/en-us/security/blog/2025/04/15/threat-actors-misuse-node-js-to-deliver-malware-and-other-malicious-payloads/
 https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/03/Figure-7-sample-webdav-process-create-event.png
 https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=TrojanSpy%3aMSIL%2fHakey.A
 https://www.microsoft.com/security/blog/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/
@@ -3938,6 +3949,7 @@ https://www.remoteutilities.com/support/kb/host-service-won-t-start/
 https://www.revshells.com/
 https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf
 https://www.roboform.com/
+https://www.safetycli.com/blog/shai-hulud-npm-attack-runs-malicious-github-action
 https://www.sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/
 https://www.sans.edu/cyber-research/from-crash-compromise-unlocking-potential-windows-crash-dumps-offensive-security/
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
@@ -3947,6 +3959,7 @@ https://www.sans.org/cyber-security-summit/archives
 https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
 https://www.sans.org/webcasts/119395
 https://www.sans.org/webcasts/tech-tuesday-workshop-cobalt-strike-detection-log-analysis-119395
+https://www.scpx.com.au/2025/11/16/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/
 https://www.scythe.io/library/threat-emulation-qakbot
 https://www.secuinfra.com/en/techtalk/hide-your-hypervisor-analysis-of-esxiargs-ransomware/
 https://www.secura.com/blog/zero-logon
@@ -3997,6 +4010,7 @@ https://www.sygnia.co/golden-saml-advisory
 https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets
 https://www.symantec.com/connect/blogs/shady-tld-research-gdn-and-our-2016-wrap
 https://www.synacktiv.com/en/publications/how-to-exploit-cve-2021-40539-on-manageengine-adselfservice-plus.html
+https://www.synacktiv.com/publications/ntlm-reflection-is-dead-long-live-ntlm-reflection-an-in-depth-analysis-of-cve-2025
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://www.tanium.com/blog/apt41-deploys-google-gc2-for-attacks-cyber-threat-intelligence-roundup/
 https://www.tarasco.org/security/pwdump_7/
@@ -4232,6 +4246,7 @@ https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie
 https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
 https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal
 https://www.zoocoup.org/casper/jamf_cheatsheet.pdf
+https://www.zscaler.com/blogs/security-research/coldriver-updates-arsenal-baitswitch-and-simplefix
 https://www.zscaler.com/blogs/security-research/ffdroider-stealer-targeting-social-media-platform-users
 https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east
 https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-distribution
