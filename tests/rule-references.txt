@@ -485,6 +485,7 @@ https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
+https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#migration
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#private_repository_forking
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#ssh_certificate_authority
 https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/about-secret-scanning
@@ -696,6 +697,7 @@ https://docs.python.org/2/library/simplehttpserver.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
+https://docs.stellarcyber.ai/5.2.x/Using/ML/Alert-Rule-Based-Potentially_Malicious_AWS_Activity.html
 https://documentation.pdq.com/PDQDeploy/13.0.3.0/index.html?windows-services.htm
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
@@ -1128,6 +1130,7 @@ https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack/tree/master/TA0008-Lateral
 https://github.com/mdsecactivebreach/CACTUSTORCH
 https://github.com/med0x2e/vba2clr
 https://github.com/mgeeky/Stracciatella
+https://github.com/mhaskar/FsquirtCPLPoC
 https://github.com/MichaelGrafnetter/DSInternals/blob/39ee8a69bbdc1cfd12c9afdd7513b4788c4895d4/Src/DSInternals.Common/Data/DPAPI/DPAPIBackupKey.cs#L28-L32
 https://github.com/MichaelGrafnetter/DSInternals/blob/39ee8a69bbdc1cfd12c9afdd7513b4788c4895d4/Src/DSInternals.PowerShell/DSInternals.psd1
 https://github.com/MichaelGrafnetter/DSInternals/blob/7ba59c12ee9a1cb430d7dc186a3366842dd612c8/Documentation/PowerShell/Get-ADDBAccount.md
@@ -2074,6 +2077,7 @@ https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/remove-entr
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/kdc-event-16-27-des-encryption-disabled
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password
 https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+https://learn.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger?view=vs-2019
 https://learn.microsoft.com/en-us/visualstudio/deployment/how-to-configure-the-clickonce-trust-prompt-behavior
 https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/security-malware-windows-defender-threatseveritydefaultaction
 https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options
@@ -2087,6 +2091,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chcp
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/clip
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskshadow
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dnscmd
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/erase
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/fsutil-usn
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult
@@ -2116,6 +2121,7 @@ https://learn.microsoft.com/en-us/windows-server/identity/software-restriction-p
 https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection
 https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#disable-quick-assist-within-your-organization
 https://learn.microsoft.com/en-us/windows/client-management/manage-recall
+https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-windowsai#disableaidataanalysis
 https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support
 https://learn.microsoft.com/en-us/windows/msix/package/package-support-framework
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
@@ -2152,6 +2158,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-creduipro
 https://learn.microsoft.com/en-us/windows/win32/api/winevt/
 https://learn.microsoft.com/en-us/windows/win32/appxpkg/troubleshooting
 https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/delete-method-in-class-win32-service
+https://learn.microsoft.com/en-us/windows/win32/debug/configuring-automatic-debugging
 https://learn.microsoft.com/en-us/windows/win32/eventlog/eventlog-key
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
@@ -2405,6 +2412,7 @@ https://mikefrobbins.com/2017/06/15/simple-obfuscation-with-powershell-using-bas
 https://mn3m.info/posts/suid-vs-capabilities/
 https://mobile.twitter.com/0gtweet/status/1564131230941122561
 https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
 https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw
 https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247484117&idx=1&sn=2fdab8cbe4b873f8dd8abb35d935d186
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-credentials-local
@@ -2838,6 +2846,7 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
+https://taggart-tech.com/evildeno/
 https://taggart-tech.com/quasar-electron/
 https://taiwan.postsen.com/business/88601/Hamas-hackers-use-data-destruction-software-BiBi-which-consumes-a-lot-of-processor-resources-to-wipe-Windows-computer-data--iThome.html
 https://talesfrominfosec.blogspot.com/2017/12/killing-sysmon-silently.html
@@ -2900,6 +2909,7 @@ https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomw
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
+https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/#exfiltration
 https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
 https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html
 https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
@@ -2940,6 +2950,7 @@ https://tria.ge/211119-gs7rtshcfr/behavioral2 [Lokibot sample from Nov 2021]
 https://tria.ge/220422-1nnmyagdf2/
 https://tria.ge/220422-1pw1pscfdl/
 https://tria.ge/231004-tp8k6sch9t/behavioral2
+https://tria.ge/231212-r1bpgaefar/behavioral2
 https://tria.ge/240123-rapteaahhr/behavioral1
 https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240226-fhbe7sdc39/behavioral1
@@ -3543,6 +3554,7 @@ https://www.blue-prints.blog/content/blog/posts/lolbin/addinutil-lolbas.html
 https://www.bluecoat.com/en-gb/security-blog/2015-05-05/know-your-agents
 https://www.bluetangle.dev/2022/08/fastening-seatbelt-on-threat-hunting.html
 https://www.blumira.com/cve-2023-2283/
+https://www.broadcom.com/support/security-center/protection-bulletin/funksec-ransomware
 https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence
 https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 https://www.carbonblack.com/2014/06/10/screenshot-demo-hunt-evil-faster-than-ever-with-carbon-black/
@@ -4022,6 +4034,7 @@ https://www.splunk.com/en_us/blog/security/breaking-the-chain-defending-against-
 https://www.splunk.com/en_us/blog/security/darkside-ransomware-splunk-threat-update-and-detections.html
 https://www.splunk.com/en_us/blog/security/follina-for-protocol-handlers.html
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
+https://www.splunk.com/en_us/blog/security/threat-update-awfulshred-script-wiper.html
 https://www.sprocketsecurity.com/resources/crossing-the-log4j-horizon-a-vulnerability-with-no-return
 https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://www.sygnia.co/golden-saml-advisory
@@ -4265,6 +4278,7 @@ https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie
 https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
 https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal
 https://www.zoocoup.org/casper/jamf_cheatsheet.pdf
+https://www.zscaler.com/blogs/security-research/coldriver-updates-arsenal-baitswitch-and-simplefix
 https://www.zscaler.com/blogs/security-research/ffdroider-stealer-targeting-social-media-platform-users
 https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east
 https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-distribution
