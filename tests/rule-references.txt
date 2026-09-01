@@ -188,6 +188,7 @@ https://bi-zone.medium.com/hunting-down-ms-exchange-attacks-part-1-proxylogon-cv
 https://bi-zone.medium.com/hunting-for-zerologon-f65c61586382
 https://bidouillesecurity.com/disable-windows-defender-in-powershell/
 https://bidouillesecurity.com/disable-windows-defender-in-powershell/#DisableAntiSpyware
+https://blackpointcyber.com/blog/racing-to-exploit-centrestacks-cve-2025-30406/
 https://blackpointcyber.com/resources/blog/breaking-through-the-screen/
 https://blog.3or.de/hunting-dns-server-level-plugin-dll-injection.html
 https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html
@@ -483,6 +484,7 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/113121765/config-vpn-ssl-web-portal
 https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/398/event
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44546/44546-logid-event-config-attr
@@ -1728,6 +1730,7 @@ https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.ht
 https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-cluster-of-groups-united-by-common-techniques
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
 https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/
 https://grep.app/search?q=winpwn&filter[repo][0]=redcanaryco/atomic-red-team
@@ -1986,6 +1989,7 @@ https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/4464eaf0-f
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/d42db7d5-f141-4466-8f47-0a4be14e2fc1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rrp/0fa3191d-bb79-490a-81bd-54c2601b7a78
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/02b1f559-fda2-4ba3-94c2-806eb2777183
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-tsch/d1058a28-7e02-4948-8b8d-4a347fa64931
 https://learn.microsoft.com/en-us/outlook/troubleshoot/security/information-about-email-security-settings
 https://learn.microsoft.com/en-us/powershell/high-performance-computing/mpiexec?view=hpc19-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer
@@ -2049,6 +2053,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4741
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4771
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
@@ -2132,6 +2137,7 @@ https://learn.microsoft.com/en-us/windows-server/identity/software-restriction-p
 https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection
 https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#disable-quick-assist-within-your-organization
 https://learn.microsoft.com/en-us/windows/client-management/manage-recall
+https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-windowsai#disableaidataanalysis
 https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support
 https://learn.microsoft.com/en-us/windows/msix/package/package-support-framework
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
@@ -2469,6 +2475,7 @@ https://news.sophos.com/en-us/2022/11/03/family-tree-dll-sideloading-cases-may-b
 https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/
 https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive
 https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/
+https://news.ycombinator.com/item?id=29504755
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
 https://ngrok.com/
 https://ngrok.com/docs
@@ -2521,6 +2528,7 @@ https://packetstormsecurity.com/files/166692/Windows-User-Profile-Service-Privle
 https://paste.cryptolaemus.com/emotet/2020/12/22/emotet-malware-IoCs_12-22-20.html
 https://patrick-bareiss.com/detecting-local-user-creation-in-ad-with-sigma/
 https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/
+https://pberba.github.io/security/2022/01/30/linux-threat-hunting-for-persistence-systemd-timers-cron/
 https://pbs.twimg.com/media/EF3yLGoWkAEGeLa?format=jpg
 https://pbs.twimg.com/media/FtYbfsDXoAQ1Y8M?format=jpg&name=large
 https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
@@ -2630,6 +2638,7 @@ https://redcanary.com/blog/msix-installers/
 https://redcanary.com/blog/raspberry-robin/
 https://redcanary.com/blog/rclone-mega-extortion/
 https://redcanary.com/blog/right-to-left-override/
+https://redcanary.com/blog/threat-intelligence/intelligence-insights-october-2024/
 https://redcanary.com/blog/yellow-cockatoo/
 https://redcanary.com/threat-detection-report/
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
@@ -2655,7 +2664,9 @@ https://research.checkpoint.com/2023/rorschach-a-new-sophisticated-and-fast-rans
 https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/
 https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/
 https://research.eye.security/sharepoint-under-siege/
+https://research.ifcr.dk/certipy-4-0-esc9-esc10-bloodhound-gui-new-authentication-and-request-methods-and-more-7237d88061f7
 https://research.kudelskisecurity.com/2023/06/12/cve-2023-27997-fortigate-ssl-vpn/
+https://research.nccgroup.com/2018/03/10/apt15-is-alive-and-strong-an-analysis-of-royalcli-and-royaldns/
 https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/
 https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/
 https://research.nccgroup.com/2020/07/10/rift-citrix-adc-vulnerabilities-cve-2020-8193-cve-2020-8195-and-cve-2020-8196-intelligence/
@@ -2935,6 +2946,7 @@ https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild
 https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/
 https://thewover.github.io/Introducing-Donut/
 https://threadreaderapp.com/thread/1533879688141086720.html
+https://threatbook.io/blog/Analysis-of-APT-C-60-Attack-on-South-Korea
 https://threathunterplaybook.com/hunts/windows/170105-LSASSMemoryReadAccess/notebook.html
 https://threathunterplaybook.com/hunts/windows/180719-DLLProcessInjectionCreateRemoteThread/notebook.html
 https://threathunterplaybook.com/hunts/windows/180815-ADObjectAccessReplication/notebook.html
@@ -3397,6 +3409,7 @@ https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-governmen
 https://unit42.paloaltonetworks.com/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/
 https://unit42.paloaltonetworks.com/guloader-installing-netwire-rat/
 https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
+https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/
 https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/
 https://unit42.paloaltonetworks.com/operation-ke3chang-resurfaces-with-new-tidepool-malware/
 https://unit42.paloaltonetworks.com/preventing-clickfix-attack-vector/
@@ -3600,6 +3613,7 @@ https://www.cobaltstrike.com/help-windows-executable
 https://www.computerhope.com/unix/unohup.htm
 https://www.configserverfirewall.com/ubuntu-linux/ubuntu-add-user-to-root-group/
 https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8
+https://www.coreycburton.com/blog/driploader-case-study
 https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/
 https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
 https://www.crowdstrike.com/blog/crowdstrike-detects-and-prevents-active-intrusion-campaign-targeting-3cxdesktopapp-customers/
@@ -3748,6 +3762,7 @@ https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-t
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
 https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
 https://www.huntress.com/blog/attacking-mssql-servers
+https://www.huntress.com/blog/blackcat-ransomware-affiliate-ttps
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/curling-for-data-a-dive-into-a-threat-actors-malicious-ttps
