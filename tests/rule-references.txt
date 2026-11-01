@@ -446,6 +446,7 @@ https://digital.nhs.uk/cyber-alerts/2018/cc-2825
 https://dirkjanm.io/a-different-way-of-abusing-zerologon/
 https://discuss.elastic.co/t/detection-and-response-for-hafnium-activity/266289/3
 https://dmaasland.github.io/posts/citrix.html
+https://docs.aws.amazon.com/accounts/latest/reference/API_EnableRegion.html
 https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_RegisterTaskDefinition.html
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DeleteDBCluster.html
@@ -841,6 +842,7 @@ https://github.com/apache/spark/pull/36315/files
 https://github.com/api0cradle/LOLBAS/blob/d148d278f5f205ce67cfaf49afdfb68071c7252a/OSScripts/pester.md
 https://github.com/arget13/DDexec
 https://github.com/Arno0x/DNSExfiltrator
+https://github.com/Arno0x/DNSExfiltrator/
 https://github.com/Arno0x/PowerShellScripts/blob/a6b7d5490fbf0b20f91195838f3a11156724b4f7/proxyTunnel.ps1
 https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
 https://github.com/asyncapi/cli/blob/2efa4dff59bc3d3cecdf897ccf178f99b115d63d/bun_environment.js
@@ -1666,6 +1668,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/WSASS
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -2409,6 +2412,7 @@ https://medium.com/tenable-techblog/uac-bypass-by-mocking-trusted-directories-24
 https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16
 https://medium.com/tsscyber/pentesting-and-hta-bypassing-powershell-constrained-language-mode-53a42856c997
 https://medium.com/walmartglobaltech/openssl-server-reverse-shell-from-windows-client-aee2dbfa0926
+https://megatools.megous.com/
 https://mez0.cc/posts/cobaltstrike-powershell-exec/
 https://mgreen27.github.io/posts/2018/04/02/DownloadCradle.html
 https://mgreen27.github.io/posts/2019/05/12/BinaryRename.html
@@ -2471,6 +2475,7 @@ https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-de
 https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
 https://ngrok.com/
+https://ngrok.com/blog-post/new-ngrok-domains
 https://ngrok.com/docs
 https://ngrok.com/docs/secure-tunnels/tunnels/ssh-reverse-tunnel-agent
 https://nmap.org/
@@ -3523,6 +3528,7 @@ https://www.anomali.com/blog/probable-iranian-cyber-actors-static-kitten-conduct
 https://www.anomali.com/blog/pulling-linux-rabbit-rabbot-malware-out-of-a-hat
 https://www.anquanke.com/post/id/226029
 https://www.anyviewer.com/help/remote-technical-support.html
+https://www.aon.com/cyber-solutions/aon_cyber_labs/linux-based-inter-process-code-injection-without-ptrace2/
 https://www.arxiv-vanity.com/papers/2008.04676/
 https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966
 https://www.atomicredteam.io/atomic-red-team/atomics/T1048.003#atomic-test-8---python3-httpserver
@@ -3723,6 +3729,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.geeksforgeeks.org/how-to-kill-processes-on-the-linux-desktop-with-xkill/
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
@@ -3733,6 +3740,7 @@ https://www.gorillastack.com/blog/real-time-events/important-aws-cloudtrail-secu
 https://www.gov.pl/attachment/ee91f24d-3e67-436d-aa50-7fa56acf789d
 https://www.gpg4win.de/documentation.html
 https://www.gradenegger.eu/en/details-of-the-event-with-id-53-of-the-source-microsoft-windows-certificationauthority/
+https://www.greynoise.io/blog/new-scraper-botnet-concentrated-in-taiwan
 https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
 https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-day-tren-microsoft-exchange-server-12714.html
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
@@ -3929,6 +3937,7 @@ https://www.netspi.com/blog/technical/network-penetration-testing/decrypting-iis
 https://www.netspi.com/blog/technical/network-penetration-testing/sql-server-persistence-part-1-startup-stored-procedures/
 https://www.nextron-systems.com/2021/08/16/antivirus-event-analysis-cheat-sheet-v1-8-2/
 https://www.nextron-systems.com/2021/10/24/monero-mining-pool-fqdns/
+https://www.nextron-systems.com/2024/03/22/unveiling-kamikakabot-malware-analysis/
 https://www.nextron-systems.com/?s=antivirus
 https://www.nirsoft.net/utils/nircmd.html
 https://www.nirsoft.net/utils/nircmd2.html#using
@@ -4166,6 +4175,7 @@ https://www.virustotal.com/gui/file/0e2854753d17b1bb534de8e765d5813c9fb584a74597
 https://www.virustotal.com/gui/file/13828b390d5f58b002e808c2c4f02fdd920e236cc8015480fa33b6c1a9300e31
 https://www.virustotal.com/gui/file/13ae8bfbc02254b389ab052aba5e1ba169b16a399d9bc4cb7414c4a73cd7dc78/detection
 https://www.virustotal.com/gui/file/14d886517fff2cc8955844b252c985ab59f2f95b2849002778f03a8f07eb8aef
+https://www.virustotal.com/gui/file/14e722855605ba78dc1d21153f0e1be90e7528149f2cd2d7d6eba8ef27534bdc/behavior
 https://www.virustotal.com/gui/file/15b57c1b68cd6ce3c161042e0f3be9f32d78151fe95461eedc59a79fc222c7ed
 https://www.virustotal.com/gui/file/16bafdf741e7a13137c489f3c8db1334f171c7cb13b62617d691b0a64783cc48/behavior
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
