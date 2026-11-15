@@ -25,6 +25,7 @@ http://woshub.com/rds-shadow-how-to-connect-to-a-user-session-in-windows-server-
 http://www.botopedia.org/search?searchword=scan&searchphrase=all
 http://www.danielbohannon.com/blog-1/2017/3/12/powershell-execution-argument-obfuscation-how-it-can-make-detection-easier
 http://www.gmer.net/
+http://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
 http://www.irongeek.com/homoglyph-attack-generator.php
 http://www.korznikov.com/2017/03/0-day-or-feature-privilege-escalation.html
 http://www.leeholmes.com/blog/2017/03/17/detecting-and-preventing-powershell-downgrade-attacks/
@@ -269,6 +270,7 @@ https://blog.talosintelligence.com/gophish-powerrat-dcrat/
 https://blog.talosintelligence.com/ipfs-abuse/
 https://blog.talosintelligence.com/modernloader-delivers-multiple-stealers-cryptominers-and-rats/
 https://blog.talosintelligence.com/uat-5647-romcom/
+https://blog.talosintelligence.com/understanding-the-phobos-affiliate-structure/
 https://blog.thecybersecuritytutor.com/Exeuction-AWL-Bypass-Remote-exe-LOLBin/
 https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
 https://blog.trendmicro.com/trendlabs-security-intelligence/attack-using-windows-installer-msiexec-exe-leads-lokibot/
@@ -437,6 +439,7 @@ https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-secur
 https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-user-settings#GRANT_ADMIN_PRIVILEGE
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.Firewalls.html
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.PacketMirrorings.html
+https://developers.google.com/workspace/admin/reports/v1/appendix/activity/login#suspicious_login
 https://developers.onelogin.com/api-docs/1/events/event-resource
 https://developers.onelogin.com/api-docs/1/events/event-resource/
 https://deviceatlas.com/blog/list-of-user-agent-strings#desktop
@@ -1636,6 +1639,7 @@ https://github.com/sleventyeleven/linuxprivchecker/blob/0d701080bbf92efd464e97d7
 https://github.com/snovvcrash/DInjector
 https://github.com/splunk/security_content/blob/0dd6de32de2118b2818550df9e65255f4109a56d/detections/endpoint/petitpotam_network_share_access_request.yml
 https://github.com/splunk/security_content/blob/300af51b88ad5d5b27ce4f5f54e4d6e6a3a2c06d/detections/endpoint/office_spawning_control.yml
+https://github.com/splunk/security_content/blob/7283ba3723551f46b69dfeb23a63b358afb2cb0e/lookups/browser_app_list.csv?plain=1
 https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152b42043db/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/office_spawning_control.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
@@ -2189,6 +2193,7 @@ https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
+https://learn.microsoft.com/it-it/powershell/module/exchangepowershell/set-inboxrule?view=exchange-ps
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
@@ -3682,6 +3687,7 @@ https://www.elastic.co/security-labs/operation-bleeding-bear
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://www.endorlabs.com/learn/shai-hulud-2-malware-campaign-targets-github-and-cloud-credentials-using-bun-runtime
 https://www.epicturla.com/blog/sysinturla
 https://www.experts-exchange.com/questions/27800944/EventID-18456-Failed-to-open-the-explicitly-specified-database.html
 https://www.exploit-db.com/exploits/19525
@@ -3723,6 +3729,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.geeksforgeeks.org/how-to-kill-processes-on-the-linux-desktop-with-xkill/
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
@@ -3748,6 +3755,7 @@ https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-t
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
 https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
 https://www.huntress.com/blog/attacking-mssql-servers
+https://www.huntress.com/blog/blackcat-ransomware-affiliate-ttps
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/curling-for-data-a-dive-into-a-threat-actors-malicious-ttps
@@ -3813,6 +3821,7 @@ https://www.kroll.com/en/insights/publications/cyber/new-m365-business-email-com
 https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
+https://www.linkedin.com/posts/kevin-beaumont-security_ive-been-assisting-a-few-orgs-hit-with-successful-activity-7268055739116445701-xxjZ/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
@@ -4291,6 +4300,7 @@ https://www.youtube.com/watch?v=ggY3srD9dYs&ab_channel=GrzegorzTworek
 https://www.youtube.com/watch?v=Ie831jF0bb0
 https://www.youtube.com/watch?v=JGs-aKf2OtU&ab_channel=OFFZONEMOSCOW
 https://www.youtube.com/watch?v=ro2QuZTIMBM
+https://www.youtube.com/watch?v=uSYvHUVU8xY
 https://www.youtube.com/watch?v=VmvY5SQm5-Y&ab_channel=M45C07
 https://www.zerodayinitiative.com/advisories/ZDI-21-1308/
 https://www.zerodayinitiative.com/advisories/ZDI-23-491/
